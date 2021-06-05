@@ -1,0 +1,13 @@
+C:\Users\david\Desktop\Projeto_Series\ProjetoSeries\ProjetoSeries\bin\Debug\netcoreapp3.1\ProjetoSeries.exe
+C:\Users\david\Desktop\Projeto_Series\ProjetoSeries\ProjetoSeries\bin\Debug\netcoreapp3.1\ProjetoSeries.deps.json
+C:\Users\david\Desktop\Projeto_Series\ProjetoSeries\ProjetoSeries\bin\Debug\netcoreapp3.1\ProjetoSeries.runtimeconfig.json
+C:\Users\david\Desktop\Projeto_Series\ProjetoSeries\ProjetoSeries\bin\Debug\netcoreapp3.1\ProjetoSeries.runtimeconfig.dev.json
+C:\Users\david\Desktop\Projeto_Series\ProjetoSeries\ProjetoSeries\bin\Debug\netcoreapp3.1\ProjetoSeries.dll
+C:\Users\david\Desktop\Projeto_Series\ProjetoSeries\ProjetoSeries\bin\Debug\netcoreapp3.1\ProjetoSeries.pdb
+C:\Users\david\Desktop\Projeto_Series\ProjetoSeries\ProjetoSeries\obj\Debug\netcoreapp3.1\ProjetoSeries.csprojAssemblyReference.cache
+C:\Users\david\Desktop\Projeto_Series\ProjetoSeries\ProjetoSeries\obj\Debug\netcoreapp3.1\ProjetoSeries.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Projeto_Series\ProjetoSeries\ProjetoSeries\obj\Debug\netcoreapp3.1\ProjetoSeries.AssemblyInfo.cs
+C:\Users\david\Desktop\Projeto_Series\ProjetoSeries\ProjetoSeries\obj\Debug\netcoreapp3.1\ProjetoSeries.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Projeto_Series\ProjetoSeries\ProjetoSeries\obj\Debug\netcoreapp3.1\ProjetoSeries.dll
+C:\Users\david\Desktop\Projeto_Series\ProjetoSeries\ProjetoSeries\obj\Debug\netcoreapp3.1\ProjetoSeries.pdb
+C:\Users\david\Desktop\Projeto_Series\ProjetoSeries\ProjetoSeries\obj\Debug\netcoreapp3.1\ProjetoSeries.genruntimeconfig.cache
